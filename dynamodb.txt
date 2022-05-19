@@ -1,0 +1,23 @@
+Criando tabela:
+aws dynamodb create-table --cli-input-json file://costumer_table.json --endpoint-url=http://localhost:8000
+
+
+Listando tabela:
+aws dynamodb list-tables --endpoint-url=http://localhost:8000
+
+Itens in table:
+aws dynamodb scan --table-name Costumer --endpoint-url http://localhost:8000
+
+
+
+
+Infos:
+Document Json
+https://aws.amazon.com/blogs/developer/storing-json-documents-in-amazon-dynamodb-tables/
+
+Projeto base:
+https://medium.com/@kaikeventura/api-rest-com-spring-boot-e-aws-dynamodb-5e79ecb80b62
+
+https://medium.com/@shanjeevanmukunthan/integrate-spring-boot-with-aws-dynamo-db-local-downloadable-version-6da6c0f432a6
+
+https://reflectoring.io/spring-dynamodb/
