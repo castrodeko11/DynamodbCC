@@ -21,3 +21,5 @@ https://medium.com/@kaikeventura/api-rest-com-spring-boot-e-aws-dynamodb-5e79ecb
 https://medium.com/@shanjeevanmukunthan/integrate-spring-boot-with-aws-dynamo-db-local-downloadable-version-6da6c0f432a6
 
 https://reflectoring.io/spring-dynamodb/
+
+https://vitormoschetti.medium.com/java-spring-boot-amazon-dynamodb-em-ambiente-local-eb7019e6b58a
